@@ -1,0 +1,10 @@
+export { default as Actor } from './Actor/Actor';
+export { default as BreadCrumb } from './BreadCrumb/BreadCrumb';
+export { default as Grid } from './Grid/Grid';
+export { default as Header } from './Header/Header';
+export { default as HeroImage } from './HeroImage/HeroImage';
+export { default as MovieInfo } from './MovieInfo/MovieInfo';
+export { default as MovieInfoBar } from './MovieInfoBar/MovieInfoBar';
+export { default as SearchBar } from './SearchBar/SearchBar';
+export { default as Spinner } from './Spinner/Spinner';
+export { default as Thumb } from './Thumb/Thumb';
